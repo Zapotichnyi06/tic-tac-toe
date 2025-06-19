@@ -3,7 +3,7 @@
 
 ## Description
 
-"Tic Tac Toe" is a classic two-player game where the objective is to form a straight line of three of one's own marks. This version offers a modern and simple interface, allowing players to enjoy the game with friends or against an AI.
+Tic-tac-toe like in the good old days — with a fresh, pleasant interface.
 
 ## First, run the development server:
 
